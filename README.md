@@ -1,8 +1,8 @@
 # JPacman
 
 [![JPacman CI with Gradle](https://github.com/MatchaLatte479/jpacman/actions/workflows/main.yml/badge.svg)](https://github.com/MatchaLatte479/jpacman/actions/workflows/main.yml)
-![Coverage](.github/badges/jacoco.svg)
-![Branches](.github/badges/branches.svg)
+[![Coverage](.github/badges/jacoco.svg)](https://github.com/MatchaLatte479/jpacman/actions/workflows/main.yml)
+[![Branches](.github/badges/branches.svg)](https://github.com/MatchaLatte479/jpacman/actions/workflows/main.yml)
 
 ## About
 
